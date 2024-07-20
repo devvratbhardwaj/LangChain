@@ -40,7 +40,7 @@ llm = Ollama(model="llama3")
 ## Output Parser
 output_parser = StrOutputParser()
 
-chain = prompt | llm | output_parser    ## **IMP**
+chain = prompt | llm | output_parser    ## **IMP Step**
 
 #%%
 if input!=None:
