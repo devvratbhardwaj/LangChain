@@ -21,3 +21,8 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+google-generativeai
+python-dotenv
+langchain
+pdf2image
+pysqlite3
